@@ -96,8 +96,7 @@ def hello():
         <div class="container">
             <div class="header">
                 <div class="bold">Hello DOCKERian, Welcome ! ! !</div>
-                <div class="message">Firstly, Congratulations for deploying the Python Application successfully</div>
-                <img src="https://d2gbo5uoddvg5.cloudfront.net/images/gifs/logo-docker.gif" class="gif" alt="Docker Gif" width="150">
+                <div class="message"> Congratulations for deploying the Python Application successfully</div>
             </div>
             <div>
                 <div class="subtitle">Welcome to</div>
@@ -105,18 +104,18 @@ def hello():
                 <div class="subtitle">by</div>
                 <div class="name">Kastro Kiran V</div>
             </div>
-            <a href="https://www.youtube.com/playlist?list=PLs-PsDpuAuTeNx3OgGQ1QrpNBo-XE6VBh" class="button docker-button" target="_blank">
+            <a href="" class="button docker-button" target="_blank">
                 <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker Icon" width="20"> Docker - Basics to Brilliance
             </a>
-            <a href="https://www.linkedin.com/in/kastro-kiran/" class="button linkedin-button" target="_blank">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Icon" width="20"> LinkedIn Connect
+            <a href="" class="button linkedin-button" target="_blank">
+                <img src="" alt="LinkedIn Icon" width="20"> LinkedIn Connect
             </a>
         </div>
         <div class="footer">
             Happy Learning!<br>
             &copy; Kastro
         </div>
-        <img src="https://media.licdn.com/dms/image/D5603AQHJB_lF1d9OSw/profile-displayphoto-shrink_800_800/0/1718971147172?e=1724889600&v=beta&t=RD4RRp_ogwCNex7BkOmy0oO68NkL5ParvKJh8y1_05s" alt="Profile Picture" class="profile-pic">
+        <img src="" class="profile-pic">
     </body>
     </html>
     '''
