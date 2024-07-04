@@ -100,9 +100,9 @@ def hello():
             </div>
             <div>
                 <div class="subtitle">Welcome to</div>
-                <div class="title">Docker - Basics to Brilliance Course</div>
-                <div class="subtitle">by</div>
-                <div class="name">Kastro Kiran V</div>
+                <div class="title"></div>
+                <div class="subtitle"></div>
+                <div class="name"> </div>
             </div>
             <a href="" class="button docker-button" target="_blank">
                 <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker Icon" width="20"> Docker - Basics to Brilliance
