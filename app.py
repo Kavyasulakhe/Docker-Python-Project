@@ -105,17 +105,16 @@ def hello():
                 <div class="name"> </div>
             </div>
             <a href="" class="button docker-button" target="_blank">
-                <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker Icon" width="20"> Docker - Basics to Brilliance
+                <img src="" alt="Docker Icon" width="20"> Docker - Basics to Brilliance
             </a>
             <a href="" class="button linkedin-button" target="_blank">
                 <img src="" alt="LinkedIn Icon" width="20"> LinkedIn Connect
             </a>
         </div>
         <div class="footer">
-            Happy Learning!<br>
-            &copy; Kastro
+            
         </div>
-        <img src="" class="profile-pic">
+        <img src="" class="">
     </body>
     </html>
     '''
